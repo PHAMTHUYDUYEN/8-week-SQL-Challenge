@@ -157,3 +157,6 @@ FROM raw_data
 | 1         | 100.00                         |
 
 **Note**: The successful delivery percentage did not fully represent the runners' performance due to cancellation orders, which are made by either customers or restaurant.
+
+---
+👉 Get back to [**8-Week-SQL-Challenge Repository**](https://github.com/PHAMTHUYDUYEN/8-week-SQL-Challenge)\
