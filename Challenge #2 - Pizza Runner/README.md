@@ -40,8 +40,8 @@ There are two tables that need cleaning before being used:\
 👉 Click [here](https://github.com/PHAMTHUYDUYEN/8-week-SQL-Challenge/blob/0efcbfcb2d437556138567d9860a608ebaf2ffa9/Challenge%20%232%20-%20Pizza%20Runner/0.%20DATA%20CLEANING.md) to view **Data Cleaning Queries**.
 
 ## Case Study Solutions
-🍕[A. Pizza Metrics](https://github.com/PHAMTHUYDUYEN/8-week-SQL-Challenge/blob/0efcbfcb2d437556138567d9860a608ebaf2ffa9/Challenge%20%232%20-%20Pizza%20Runner/A.%20PIZZA%20METRICS.md)\
-🏃[B. Runner and Customer Experience](https://github.com/PHAMTHUYDUYEN/8-week-SQL-Challenge/blob/0efcbfcb2d437556138567d9860a608ebaf2ffa9/Challenge%20%232%20-%20Pizza%20Runner/B.%20RUNNER%20AND%20CUSTOMERS%20EXPERIENCE.md)\
-🥓[C. Ingredient Optimization](https://github.com/PHAMTHUYDUYEN/8-week-SQL-Challenge/blob/0efcbfcb2d437556138567d9860a608ebaf2ffa9/Challenge%20%232%20-%20Pizza%20Runner/C.%20INGREDIENT%20OPTIMIZATION.md)\
-💰[D. Pricing and Ratings](https://github.com/PHAMTHUYDUYEN/8-week-SQL-Challenge/blob/0efcbfcb2d437556138567d9860a608ebaf2ffa9/Challenge%20%232%20-%20Pizza%20Runner/D.%20PRICING%20AND%20RATINGS.md)\
-✨[E. Bonus Questions](https://github.com/PHAMTHUYDUYEN/8-week-SQL-Challenge/blob/0efcbfcb2d437556138567d9860a608ebaf2ffa9/Challenge%20%232%20-%20Pizza%20Runner/E.%20BONUS%20QUESTIONS.md)
+🍕[A. Pizza Metrics](https://github.com/PHAMTHUYDUYEN/8-week-SQL-Challenge/blob/main/Challenge%20%232%20-%20Pizza%20Runner/A.%20PIZZA%20METRICS.md)\
+🏃[B. Runner and Customer Experience](https://github.com/PHAMTHUYDUYEN/8-week-SQL-Challenge/blob/main/Challenge%20%232%20-%20Pizza%20Runner/B.%20RUNNER%20AND%20CUSTOMERS%20EXPERIENCE.md)\
+🥓[C. Ingredient Optimization](https://github.com/PHAMTHUYDUYEN/8-week-SQL-Challenge/blob/main/Challenge%20%232%20-%20Pizza%20Runner/C.%20INGREDIENT%20OPTIMIZATION.md)\
+💰[D. Pricing and Ratings](https://github.com/PHAMTHUYDUYEN/8-week-SQL-Challenge/blob/main/Challenge%20%232%20-%20Pizza%20Runner/D.%20PRICING%20AND%20RATINGS.md)\
+✨[E. Bonus Questions](https://github.com/PHAMTHUYDUYEN/8-week-SQL-Challenge/blob/main/Challenge%20%232%20-%20Pizza%20Runner/E.%20BONUS%20QUESTIONS.md)
