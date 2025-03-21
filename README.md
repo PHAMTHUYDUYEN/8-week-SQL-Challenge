@@ -5,6 +5,7 @@ The 8 Week SQL Challenge is started by Danny Ma through Data With Danny virtual 
 
 ## 📚 List of Challenges
 * 🍜 [Challenge #1 - Danny's Diner](https://github.com/PHAMTHUYDUYEN/8-week-SQL-Challenge/tree/main/Challenge%20%231%20-%20Danny's%20Diner%20)
+* 🍕 [Challenge #2 - Pizza Runner](https://github.com/PHAMTHUYDUYEN/8-week-SQL-Challenge/tree/main/Challenge%20%232%20-%20Pizza%20Runner)
 
 ## 📖 Each Folder Contains
 - A `README.MD` file summarizing the challenge and datasets
