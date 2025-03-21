@@ -154,4 +154,11 @@ _(WIP)_
 _(WIP)_
 
 ---
-👉 Get back to [**8-Week-SQL-Challenge Repository**](https://github.com/PHAMTHUYDUYEN/8-week-SQL-Challenge)
+## See other Solutions
+🍕[A. Pizza Metrics](https://github.com/PHAMTHUYDUYEN/8-week-SQL-Challenge/blob/main/Challenge%20%232%20-%20Pizza%20Runner/A.%20PIZZA%20METRICS.md)\
+🏃[B. Runner and Customer Experience](https://github.com/PHAMTHUYDUYEN/8-week-SQL-Challenge/blob/main/Challenge%20%232%20-%20Pizza%20Runner/B.%20RUNNER%20AND%20CUSTOMERS%20EXPERIENCE.md)\
+💰[D. Pricing and Ratings](https://github.com/PHAMTHUYDUYEN/8-week-SQL-Challenge/blob/main/Challenge%20%232%20-%20Pizza%20Runner/D.%20PRICING%20AND%20RATINGS.md)\
+✨[E. Bonus Questions](https://github.com/PHAMTHUYDUYEN/8-week-SQL-Challenge/blob/main/Challenge%20%232%20-%20Pizza%20Runner/E.%20BONUS%20QUESTIONS.md)
+
+---
+👉 Get back to [**8-Week-SQL-Challenge Repository**](https://github.com/PHAMTHUYDUYEN/8-week-SQL-Challenge) to see other Challenges!
