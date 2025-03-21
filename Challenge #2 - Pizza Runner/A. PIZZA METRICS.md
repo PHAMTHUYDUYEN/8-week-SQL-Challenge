@@ -167,7 +167,3 @@ ORDER BY 1,2,3,4
 
 ---
 👉 Get back to [**8-Week-SQL-Challenge Repository**](https://github.com/PHAMTHUYDUYEN/8-week-SQL-Challenge)\
-👉 Go to 🏃 [B. Runner and Customer Experience Solutions](https://github.com/PHAMTHUYDUYEN/8-week-SQL-Challenge/blob/0efcbfcb2d437556138567d9860a608ebaf2ffa9/Challenge%20%232%20-%20Pizza%20Runner/B.%20RUNNER%20AND%20CUSTOMERS%20EXPERIENCE.md)\
-👉 Go to 🥓 [C. Ingredient Optimization Solutions](https://github.com/PHAMTHUYDUYEN/8-week-SQL-Challenge/blob/0efcbfcb2d437556138567d9860a608ebaf2ffa9/Challenge%20%232%20-%20Pizza%20Runner/C.%20INGREDIENT%20OPTIMIZATION.md)\
-👉 Go to 💰 [D. Pricing and Ratings Solutions](https://github.com/PHAMTHUYDUYEN/8-week-SQL-Challenge/blob/0efcbfcb2d437556138567d9860a608ebaf2ffa9/Challenge%20%232%20-%20Pizza%20Runner/D.%20PRICING%20AND%20RATINGS.md)\
-👉 Go to ✨ [E. Bonus Question Solutions](https://github.com/PHAMTHUYDUYEN/8-week-SQL-Challenge/blob/0efcbfcb2d437556138567d9860a608ebaf2ffa9/Challenge%20%232%20-%20Pizza%20Runner/E.%20BONUS%20QUESTIONS.md)
