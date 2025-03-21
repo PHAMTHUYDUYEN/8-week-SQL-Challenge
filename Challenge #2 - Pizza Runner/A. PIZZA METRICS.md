@@ -166,4 +166,4 @@ ORDER BY 1,2,3,4
 | 2020-01 | 2    | 11   | Saturday  | 2                    |
 
 ---
-👉 Get back to [**8-Week-SQL-Challenge Repository**](https://github.com/PHAMTHUYDUYEN/8-week-SQL-Challenge)\
+👉 Get back to [**8-Week-SQL-Challenge Repository**](https://github.com/PHAMTHUYDUYEN/8-week-SQL-Challenge)
