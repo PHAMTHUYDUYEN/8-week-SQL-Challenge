@@ -27,7 +27,7 @@ Danny started by recruiting “runners” to deliver fresh pizza from Pizza Runn
 <img src="https://github.com/user-attachments/assets/15577c4f-27e3-4ef5-854e-d329a25a3792" alt="Image" width="670" height="350">
 
 ## Data Cleaning
-There are two tables that need cleaning before being used:
+There are two tables that need cleaning before being used:\
 **_customer_orders_**
 - `exclusions` and `extras` fields have blank spaces, 'null' values (which are text values) and are VARCHAR type -> Delete 'null' (text value); Convert to INTERGER.
 
