@@ -37,7 +37,7 @@ There are two tables that need cleaning before being used:\
 - `distance` is VARCHAR type, and has 'null', 'km' as text values together with numbers -> Remove text values from numbers; Convert data type to NUMERIC.
 - `cancellation` has 'null' as text values -> Delete 'null' text values 
 
-👉 Click [here](https://github.com/PHAMTHUYDUYEN/8-week-SQL-Challenge/blob/0efcbfcb2d437556138567d9860a608ebaf2ffa9/Challenge%20%232%20-%20Pizza%20Runner/0.%20DATA%20CLEANING.md) to view **Data Cleaning Queries**.
+👉 Click [here](https://github.com/PHAMTHUYDUYEN/8-week-SQL-Challenge/blob/main/Challenge%20%232%20-%20Pizza%20Runner/0.%20DATA%20CLEANING.md) to view **Data Cleaning Queries**.
 
 ## Case Study Solutions
 🍕[A. Pizza Metrics](https://github.com/PHAMTHUYDUYEN/8-week-SQL-Challenge/blob/main/Challenge%20%232%20-%20Pizza%20Runner/A.%20PIZZA%20METRICS.md)\
